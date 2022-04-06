@@ -1,0 +1,10 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/bin/Debug/netcoreapp3.1/Models.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/bin/Debug/netcoreapp3.1/Models.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/Models/obj/Debug/netcoreapp3.1/Models.pdb

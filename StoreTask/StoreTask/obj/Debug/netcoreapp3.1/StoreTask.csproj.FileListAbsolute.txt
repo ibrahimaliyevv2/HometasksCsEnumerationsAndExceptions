@@ -1,0 +1,16 @@
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/StoreTask.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/StoreTask.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/StoreTask.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/StoreTask.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/StoreTask.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.genruntimeconfig.cache
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/Models.dll
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCsEnumerationsAndExceptions/StoreTask/StoreTask/obj/Debug/netcoreapp3.1/StoreTask.csproj.CopyComplete
